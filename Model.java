@@ -1,7 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package ae_02_t1_2_streams_files;
 
 import java.io.BufferedReader;
@@ -16,10 +13,6 @@ import javafx.fxml.FXML;
 import javax.imageio.stream.FileImageInputStream;
 import jdk.jfr.events.FileWriteEvent;
 
-/**
- *
- * @author Joan_2k2
- */
 public class Model {
 
     public static String leerArchivo(File f) throws IOException {
